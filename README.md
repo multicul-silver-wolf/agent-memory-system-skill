@@ -44,5 +44,5 @@ Trigger the skill in your chat:
 
 ---
 
-Built with 👾 by [Sawana](https://github.com/multicul-silver-wolf). 
+Built with 👾 by [Silver Wolf](https://github.com/multicul-silver-wolf) & [Sawana](https://github.com/waitlistSawana). 
 Inspired by the **Aether Editing** philosophy.

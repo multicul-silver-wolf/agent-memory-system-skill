@@ -10,9 +10,12 @@ Durable project knowledge often gets lost in long chat threads. This skill enfor
 
 ## 📦 Installation
 
-Install this skill into your agent environment (OpenClaw or Claude Code):
+Install this skill into your agent environment (Claude Code, OpenClaw, or Codex):
 
 ```bash
+# Using npx skills (Recommended for Claude Code)
+npx skills add multicul-silver-wolf/agent-memory-system-skill/skills/project-memory-system
+
 # Using openclaw
 openclaw install https://github.com/multicul-silver-wolf/agent-memory-system-skill/skills/project-memory-system
 
